@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "title": "PART 1: SUMMARY",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_2_OpenChallengeNotebook-Challenge-1_Extreme_precipitation_Jessel-Hezzi-Roussel_preview.png",
+    "link": "notebooks/2-openchallengenotebook-challenge-1-extreme-precip",
+    "org": "ESA-EarthCODE",
+    "repo": "example-viewer",
+    "source": "local",
+    "path": "notebooks/2_OpenChallengeNotebook-Challenge-1_Extreme_precipitation_Jessel-Hezzi-Roussel.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/notebooks/2_OpenChallengeNotebook-Challenge-1_Extreme_precipitation_Jessel-Hezzi-Roussel.ipynb&branch=main"
+  }
+]
