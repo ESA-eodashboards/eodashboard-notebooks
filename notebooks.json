@@ -10,5 +10,17 @@
     "source": "local",
     "path": "notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb",
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
+  },
+  {
+    "title": "Night Lights Blending",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_nightlights_notebook_Night_Lights_Blending_preview.png",
+    "link": "notebooks/nightlights-notebook/night-lights-blending",
+    "org": "ESA-EarthCODE",
+    "repo": "example-viewer",
+    "source": "local",
+    "path": "notebooks/nightlights_notebook/Night_Lights_Blending.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/notebooks/nightlights_notebook/Night_Lights_Blending.ipynb&branch=main"
   }
 ]
