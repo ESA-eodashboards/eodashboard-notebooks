@@ -1,5 +1,41 @@
 [
   {
+    "title": "Fire impact analysis",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_Fire_impact_analysis_preview.png",
+    "link": "notebooks/fire-impact-analysis",
+    "org": "ESA-EarthCODE",
+    "repo": "example-viewer",
+    "source": "local",
+    "path": "notebooks/Fire_impact_analysis.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/notebooks/Fire_impact_analysis.ipynb&branch=main"
+  },
+  {
+    "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_Inland_water_with_EDC_preview.png",
+    "link": "notebooks/inland-water-with-edc",
+    "org": "ESA-EarthCODE",
+    "repo": "example-viewer",
+    "source": "local",
+    "path": "notebooks/Inland_water_with_EDC.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/notebooks/Inland_water_with_EDC.ipynb&branch=main"
+  },
+  {
+    "title": "Using the NASA VEDA EOAPI",
+    "description": "",
+    "metadata": {},
+    "image": null,
+    "link": "notebooks/veda-api-bids-2023",
+    "org": "ESA-EarthCODE",
+    "repo": "example-viewer",
+    "source": "local",
+    "path": "notebooks/veda_api_bids_2023.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/notebooks/veda_api_bids_2023.ipynb&branch=main"
+  },
+  {
     "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
     "description": "",
     "metadata": {},
