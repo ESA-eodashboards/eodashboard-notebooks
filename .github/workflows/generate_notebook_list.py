@@ -16,8 +16,8 @@ NOTEBOOK_DIR = "notebooks"
 SUBMODULE_ROOT = "external_notebooks"
 JHUB_INSTANCE = "workspace.earthcode.eox.at"
 IGNORE_FOLDERS = ["venv", ".git", ".github", "_build", "_data", "dist"]
-DEF_ORG = "ESA-EarthCODE"
-DEF_REPO = "example-viewer"
+DEF_ORG = "ESA-eodashboards"
+DEF_REPO = "eodashboard-notebooks"
 
 def extract_last_image(nb, notebook_rel_path, output_dir="_build/html/build/_assets/previews", target_width=300):
     os.makedirs(output_dir, exist_ok=True)
