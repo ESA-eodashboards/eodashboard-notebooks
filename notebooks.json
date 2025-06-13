@@ -5,11 +5,11 @@
     "metadata": {},
     "image": "build/_assets/previews/notebooks_Fire_impact_analysis_preview.png",
     "link": "notebooks/fire-impact-analysis",
-    "org": "ESA-EarthCODE",
-    "repo": "example-viewer",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
     "source": "local",
     "path": "notebooks/Fire_impact_analysis.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/example-viewer/notebooks/Fire_impact_analysis.ipynb&branch=main"
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
   },
   {
     "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
@@ -17,23 +17,25 @@
     "metadata": {},
     "image": "build/_assets/previews/notebooks_Inland_water_with_EDC_preview.png",
     "link": "notebooks/inland-water-with-edc",
-    "org": "ESA-EarthCODE",
-    "repo": "example-viewer",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
     "source": "local",
     "path": "notebooks/Inland_water_with_EDC.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/example-viewer/notebooks/Inland_water_with_EDC.ipynb&branch=main"
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Inland_water_with_EDC.ipynb&branch=main"
   },
   {
     "title": "Using the NASA VEDA EOAPI",
     "description": "",
-    "metadata": {},
-    "image": null,
+    "metadata": {
+      "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png"
+    },
+    "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png",
     "link": "notebooks/veda-api-bids-2023",
-    "org": "ESA-EarthCODE",
-    "repo": "example-viewer",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
     "source": "local",
     "path": "notebooks/veda_api_bids_2023.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/example-viewer/notebooks/veda_api_bids_2023.ipynb&branch=main"
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/veda_api_bids_2023.ipynb&branch=main"
   },
   {
     "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
@@ -41,11 +43,11 @@
     "metadata": {},
     "image": "build/_assets/previews/notebooks_OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel_preview.png",
     "link": "notebooks/openchallengenotebook-c1-jessel-hezzi-roussel",
-    "org": "ESA-EarthCODE",
-    "repo": "example-viewer",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
     "source": "local",
     "path": "notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/example-viewer/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
   },
   {
     "title": "Night Lights Blending",
@@ -53,10 +55,10 @@
     "metadata": {},
     "image": "build/_assets/previews/notebooks_nightlights_notebook_Night_Lights_Blending_preview.png",
     "link": "notebooks/nightlights-notebook/night-lights-blending",
-    "org": "ESA-EarthCODE",
-    "repo": "example-viewer",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
     "source": "local",
     "path": "notebooks/nightlights_notebook/Night_Lights_Blending.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/example-viewer/notebooks/nightlights_notebook/Night_Lights_Blending.ipynb&branch=main"
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/nightlights_notebook/Night_Lights_Blending.ipynb&branch=main"
   }
 ]
