@@ -50,7 +50,7 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
   },
   {
-    "title": "Night Lights Blending",
+    "title": "Monitoring socio-economic activities with nighttime light maps",
     "description": "",
     "metadata": {},
     "image": "build/_assets/previews/notebooks_nightlights_notebook_Night_Lights_Blending_preview.png",
