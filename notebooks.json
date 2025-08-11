@@ -60,5 +60,19 @@
     "source": "local",
     "path": "notebooks/nightlights_notebook/Night_Lights_Blending.ipynb",
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/nightlights_notebook/Night_Lights_Blending.ipynb&branch=main"
+  },
+  {
+    "title": "eodashboard STAC access",
+    "description": "",
+    "metadata": {
+      "image": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/collections/SMOS_OS/SMOS_OS.png"
+    },
+    "image": "https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/collections/SMOS_OS/SMOS_OS.png",
+    "link": "notebooks/eodashboard-stac-access/eodashboard-stac-access",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
+    "source": "local",
+    "path": "notebooks/eodashboard_STAC_access/eodashboard_STAC_access.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/eodashboard_STAC_access/eodashboard_STAC_access.ipynb&branch=main"
   }
 ]
