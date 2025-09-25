@@ -12,16 +12,16 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
   },
   {
-    "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
+    "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
     "description": "",
     "metadata": {},
-    "image": "build/_assets/previews/notebooks_Inland_water_with_EDC_preview.png",
-    "link": "notebooks/inland-water-with-edc",
+    "image": "build/_assets/previews/notebooks_OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel_preview.png",
+    "link": "notebooks/openchallengenotebook-c1-jessel-hezzi-roussel",
     "org": "ESA-eodashboards",
     "repo": "eodashboard-notebooks",
     "source": "local",
-    "path": "notebooks/Inland_water_with_EDC.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Inland_water_with_EDC.ipynb&branch=main"
+    "path": "notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
   },
   {
     "title": "Using the NASA VEDA EOAPI",
@@ -38,28 +38,16 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/veda_api_bids_2023.ipynb&branch=main"
   },
   {
-    "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
+    "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
     "description": "",
     "metadata": {},
-    "image": "build/_assets/previews/notebooks_OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel_preview.png",
-    "link": "notebooks/openchallengenotebook-c1-jessel-hezzi-roussel",
+    "image": "build/_assets/previews/notebooks_Inland_water_with_EDC_preview.png",
+    "link": "notebooks/inland-water-with-edc",
     "org": "ESA-eodashboards",
     "repo": "eodashboard-notebooks",
     "source": "local",
-    "path": "notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
-  },
-  {
-    "title": "Monitoring socio-economic activities with nighttime light maps",
-    "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_nightlights_notebook_Night_Lights_Blending_preview.png",
-    "link": "notebooks/nightlights-notebook/night-lights-blending",
-    "org": "ESA-eodashboards",
-    "repo": "eodashboard-notebooks",
-    "source": "local",
-    "path": "notebooks/nightlights_notebook/Night_Lights_Blending.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/nightlights_notebook/Night_Lights_Blending.ipynb&branch=main"
+    "path": "notebooks/Inland_water_with_EDC.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Inland_water_with_EDC.ipynb&branch=main"
   },
   {
     "title": "eodashboard STAC access",
@@ -74,5 +62,29 @@
     "source": "local",
     "path": "notebooks/eodashboard_STAC_access/eodashboard_STAC_access.ipynb",
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/eodashboard_STAC_access/eodashboard_STAC_access.ipynb&branch=main"
+  },
+  {
+    "title": "Monitoring socio-economic activities with nighttime light maps",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_nightlights_notebook_Night_Lights_Blending_preview.png",
+    "link": "notebooks/nightlights-notebook/night-lights-blending",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
+    "source": "local",
+    "path": "notebooks/nightlights_notebook/Night_Lights_Blending.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/nightlights_notebook/Night_Lights_Blending.ipynb&branch=main"
+  },
+  {
+    "title": "USE CASE 1: Nighttime Lights",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/external_notebooks_group1_2025-BiDS-EODashboard_notebook_Urban_Health_and_Megacities_preview.png",
+    "link": "external-notebooks/group1/2025-bids-eodashboard/notebook/urban-health-and-megacities",
+    "org": "eurodatacube",
+    "repo": "2025-BiDS-EODashboard",
+    "source": "submodule",
+    "path": "external_notebooks/group1/2025-BiDS-EODashboard/notebook/Urban_Health_and_Megacities.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/eurodatacube/2025-BiDS-EODashboard&urlpath=lab/tree/eodashboard-notebooks/2025-BiDS-EODashboard/notebook/Urban_Health_and_Megacities.ipynb&branch=main"
   }
 ]
