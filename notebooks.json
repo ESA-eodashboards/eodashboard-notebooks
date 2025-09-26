@@ -85,6 +85,6 @@
     "repo": "2025-BiDS-EODashboard",
     "source": "submodule",
     "path": "external_notebooks/group1/2025-BiDS-EODashboard/notebook/Urban_Health_and_Megacities.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/eurodatacube/2025-BiDS-EODashboard&urlpath=lab/tree/eodashboard-notebooks/2025-BiDS-EODashboard/notebook/Urban_Health_and_Megacities.ipynb&branch=main"
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/eurodatacube/2025-BiDS-EODashboard&urlpath=lab/tree/2025-BiDS-EODashboard/notebook/Urban_Health_and_Megacities.ipynb&branch=main"
   }
 ]
