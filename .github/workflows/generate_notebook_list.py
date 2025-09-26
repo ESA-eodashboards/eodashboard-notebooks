@@ -247,7 +247,7 @@ def collect_notebooks():
                             "repo": git_info["repo"],
                             "source": "submodule",
                             "path": rel_path,
-                            "gitpuller": f"https://{JHUB_INSTANCE}/hub/user-redirect/git-pull?repo={git_url}&urlpath=lab/tree/{DEF_REPO}/{repo_path}&branch=main",
+                            "gitpuller": f"https://{JHUB_INSTANCE}/hub/user-redirect/git-pull?repo={git_url}&urlpath=lab/tree/{repo_path}&branch=main",
                         })
 
     return catalog
