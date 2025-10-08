@@ -24,6 +24,18 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
   },
   {
+    "title": "PART 1: SUMMARY",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED_preview.png",
+    "link": "notebooks/openchallangenotebook-team-5-challenge-3-timeserie",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
+    "source": "local",
+    "path": "notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb&branch=main"
+  },
+  {
     "title": "Using the NASA VEDA EOAPI",
     "description": "",
     "metadata": {
