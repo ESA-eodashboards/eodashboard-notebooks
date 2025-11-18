@@ -36,6 +36,18 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb&branch=main"
   },
   {
+    "title": "<a name=\"toc\"></a><span style='color:DarkCyan'> Table of Contents </center> </span>",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_Oceanographic patterns clustering_preview.png",
+    "link": "notebooks/oceanographic-patterns-clustering",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
+    "source": "local",
+    "path": "notebooks/Oceanographic patterns clustering.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Oceanographic patterns clustering.ipynb&branch=main"
+  },
+  {
     "title": "Using the NASA VEDA EOAPI",
     "description": "",
     "metadata": {
