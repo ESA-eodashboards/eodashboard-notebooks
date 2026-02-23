@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/external-notebooks/group1/2025-bids-eodashboard/readme</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/external-notebooks/group1/2025-bids-eodashboard/notebook/urban-health-and-megacities</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/fire-impact-analysis</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/inland-water-with-edc</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/oceanographic-patterns-clustering</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/openchallangenotebook-team-5-challenge-3-timeserie</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/openchallengenotebook-c1-jessel-hezzi-roussel</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/veda-api-bids-2023</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/eodashboard-stac-access/eodashboard-stac-access</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/notebooks/nightlights-notebook/night-lights-blending</loc>
+  </url>
+</urlset>
