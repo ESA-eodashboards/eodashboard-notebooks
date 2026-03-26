@@ -1,15 +1,17 @@
 [
   {
-    "title": "Evaluation of Fire Impact on Populated Areas on a European Site",
+    "title": "Using the NASA VEDA EOAPI",
     "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_Fire_impact_analysis_preview.png",
-    "link": "notebooks/fire-impact-analysis",
+    "metadata": {
+      "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png"
+    },
+    "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png",
+    "link": "notebooks/veda-api-bids-2023",
     "org": "ESA-eodashboards",
     "repo": "eodashboard-notebooks",
     "source": "local",
-    "path": "notebooks/Fire_impact_analysis.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
+    "path": "notebooks/veda_api_bids_2023.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/veda_api_bids_2023.ipynb&branch=main"
   },
   {
     "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
@@ -24,18 +26,6 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
   },
   {
-    "title": "Earth System Science Hub Challenge 3: Time series interpolation techniques for remote sensing - Fran, Denise, Mae",
-    "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED_preview.png",
-    "link": "notebooks/openchallangenotebook-team-5-challenge-3-timeserie",
-    "org": "ESA-eodashboards",
-    "repo": "eodashboard-notebooks",
-    "source": "local",
-    "path": "notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb&branch=main"
-  },
-  {
     "title": "K-means clustering analysis of oceanographic patterns in the Mediterranean Sea",
     "description": "",
     "metadata": {},
@@ -48,18 +38,28 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Oceanographic patterns clustering.ipynb&branch=main"
   },
   {
-    "title": "Using the NASA VEDA EOAPI",
+    "title": "Earth System Science Hub Challenge 3: Time series interpolation techniques for remote sensing - Fran, Denise, Mae",
     "description": "",
-    "metadata": {
-      "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png"
-    },
-    "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png",
-    "link": "notebooks/veda-api-bids-2023",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED_preview.png",
+    "link": "notebooks/openchallangenotebook-team-5-challenge-3-timeserie",
     "org": "ESA-eodashboards",
     "repo": "eodashboard-notebooks",
     "source": "local",
-    "path": "notebooks/veda_api_bids_2023.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/veda_api_bids_2023.ipynb&branch=main"
+    "path": "notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb&branch=main"
+  },
+  {
+    "title": "Evaluation of Fire Impact on Populated Areas on a European Site",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_Fire_impact_analysis_preview.png",
+    "link": "notebooks/fire-impact-analysis",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
+    "source": "local",
+    "path": "notebooks/Fire_impact_analysis.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
   },
   {
     "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
