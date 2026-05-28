@@ -1,29 +1,5 @@
 [
   {
-    "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
-    "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel_preview.png",
-    "link": "notebooks/openchallengenotebook-c1-jessel-hezzi-roussel",
-    "org": "ESA-eodashboards",
-    "repo": "eodashboard-notebooks",
-    "source": "local",
-    "path": "notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
-  },
-  {
-    "title": "K-means clustering analysis of oceanographic patterns in the Mediterranean Sea",
-    "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_Oceanographic patterns clustering_preview.png",
-    "link": "notebooks/oceanographic-patterns-clustering",
-    "org": "ESA-eodashboards",
-    "repo": "eodashboard-notebooks",
-    "source": "local",
-    "path": "notebooks/Oceanographic patterns clustering.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Oceanographic patterns clustering.ipynb&branch=main"
-  },
-  {
     "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
     "description": "",
     "metadata": {},
@@ -36,18 +12,16 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Inland_water_with_EDC.ipynb&branch=main"
   },
   {
-    "title": "Using the NASA VEDA EOAPI",
+    "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
     "description": "",
-    "metadata": {
-      "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png"
-    },
-    "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png",
-    "link": "notebooks/veda-api-bids-2023",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel_preview.png",
+    "link": "notebooks/openchallengenotebook-c1-jessel-hezzi-roussel",
     "org": "ESA-eodashboards",
     "repo": "eodashboard-notebooks",
     "source": "local",
-    "path": "notebooks/veda_api_bids_2023.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/veda_api_bids_2023.ipynb&branch=main"
+    "path": "notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
   },
   {
     "title": "Evaluation of Fire Impact on Populated Areas on a European Site",
@@ -72,6 +46,32 @@
     "source": "local",
     "path": "notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb",
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb&branch=main"
+  },
+  {
+    "title": "Using the NASA VEDA EOAPI",
+    "description": "",
+    "metadata": {
+      "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png"
+    },
+    "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png",
+    "link": "notebooks/veda-api-bids-2023",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
+    "source": "local",
+    "path": "notebooks/veda_api_bids_2023.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/veda_api_bids_2023.ipynb&branch=main"
+  },
+  {
+    "title": "K-means clustering analysis of oceanographic patterns in the Mediterranean Sea",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_Oceanographic patterns clustering_preview.png",
+    "link": "notebooks/oceanographic-patterns-clustering",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
+    "source": "local",
+    "path": "notebooks/Oceanographic patterns clustering.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Oceanographic patterns clustering.ipynb&branch=main"
   },
   {
     "title": "Monitoring socio-economic activities with nighttime light maps",
