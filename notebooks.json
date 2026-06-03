@@ -24,7 +24,7 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
   },
   {
-    "title": "PART 1: SUMMARY",
+    "title": "Earth System Science Hub Challenge 1: Exploring our atmosphere with EarthCARE",
     "description": "",
     "metadata": {},
     "image": "build/_assets/previews/notebooks_OpenChallangeNotebook-EarthCARE_Cloud_Aerosols_Interactions_preview.png",
