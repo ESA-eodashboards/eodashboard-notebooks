@@ -1,15 +1,15 @@
 [
   {
-    "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
+    "title": "Earth System Science Hub Challenge 3: Time series interpolation techniques for remote sensing - Fran, Denise, Mae",
     "description": "",
     "metadata": {},
-    "image": "build/_assets/previews/notebooks_Inland_water_with_EDC_preview.png",
-    "link": "notebooks/inland-water-with-edc",
+    "image": "build/_assets/previews/notebooks_OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED_preview.png",
+    "link": "notebooks/openchallangenotebook-team-5-challenge-3-timeserie",
     "org": "ESA-eodashboards",
     "repo": "eodashboard-notebooks",
     "source": "local",
-    "path": "notebooks/Inland_water_with_EDC.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Inland_water_with_EDC.ipynb&branch=main"
+    "path": "notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb&branch=main"
   },
   {
     "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
@@ -22,6 +22,18 @@
     "source": "local",
     "path": "notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb",
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
+  },
+  {
+    "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_Inland_water_with_EDC_preview.png",
+    "link": "notebooks/inland-water-with-edc",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
+    "source": "local",
+    "path": "notebooks/Inland_water_with_EDC.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Inland_water_with_EDC.ipynb&branch=main"
   },
   {
     "title": "Earth System Science Hub Challenge 1: Exploring our atmosphere with EarthCARE",
@@ -46,18 +58,6 @@
     "source": "local",
     "path": "notebooks/Fire_impact_analysis.ipynb",
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
-  },
-  {
-    "title": "Earth System Science Hub Challenge 3: Time series interpolation techniques for remote sensing - Fran, Denise, Mae",
-    "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED_preview.png",
-    "link": "notebooks/openchallangenotebook-team-5-challenge-3-timeserie",
-    "org": "ESA-eodashboards",
-    "repo": "eodashboard-notebooks",
-    "source": "local",
-    "path": "notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb&branch=main"
   },
   {
     "title": "Using the NASA VEDA EOAPI",
