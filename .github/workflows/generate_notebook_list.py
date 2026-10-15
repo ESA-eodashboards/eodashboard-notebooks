@@ -223,8 +223,13 @@ def collect_notebooks():
                 continue
 
             sub_rel = os.path.relpath(sub_path, ROOT_DIR)
-            git_info = submodules.get(os.path.normpath(sub_rel), {"org": None, "repo": None})
-            git_url = git_info["url"]
+            git_info = submodules.get(os.path.normpath(sub_rel))
+            if not git_info:
+                git_info = get_git_remote_info(sub_path)
+            git_url = git_info.get("url")
+            if not git_url:
+                print(f"[warn] Could not determine git URL for submodule {sub_rel}, skipping")
+                continue
 
             for dirpath, _, filenames in os.walk(sub_path):
                 for file in filenames:
@@ -243,8 +248,8 @@ def collect_notebooks():
                             "metadata": meta,
                             "image": image,
                             "link": myst_url_sanitation(rel_path.replace(".ipynb", "")),
-                            "org": git_info["org"],
-                            "repo": git_info["repo"],
+                            "org": git_info.get("org"),
+                            "repo": git_info.get("repo"),
                             "source": "submodule",
                             "path": rel_path,
                             "gitpuller": f"https://{JHUB_INSTANCE}/hub/user-redirect/git-pull?repo={git_url}&urlpath=lab/tree/{repo_path}&branch=main",
