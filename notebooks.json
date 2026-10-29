@@ -1,27 +1,17 @@
 [
   {
-    "title": "Earth System Science Hub Challenge 3: Time series interpolation techniques for remote sensing - Fran, Denise, Mae",
+    "title": "Using the NASA VEDA EOAPI",
     "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED_preview.png",
-    "link": "notebooks/openchallangenotebook-team-5-challenge-3-timeserie",
+    "metadata": {
+      "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png"
+    },
+    "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png",
+    "link": "notebooks/veda-api-bids-2023",
     "org": "ESA-eodashboards",
     "repo": "eodashboard-notebooks",
     "source": "local",
-    "path": "notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb&branch=main"
-  },
-  {
-    "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
-    "description": "",
-    "metadata": {},
-    "image": "build/_assets/previews/notebooks_OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel_preview.png",
-    "link": "notebooks/openchallengenotebook-c1-jessel-hezzi-roussel",
-    "org": "ESA-eodashboards",
-    "repo": "eodashboard-notebooks",
-    "source": "local",
-    "path": "notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
+    "path": "notebooks/veda_api_bids_2023.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/veda_api_bids_2023.ipynb&branch=main"
   },
   {
     "title": "Exploring Inland Water Bodies with Sentinel-2 data in EDC",
@@ -60,18 +50,16 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Fire_impact_analysis.ipynb&branch=main"
   },
   {
-    "title": "Using the NASA VEDA EOAPI",
+    "title": "Earth System Science Open Challenge 1: L. Jessel, S. Hezzi, M. Roussel",
     "description": "",
-    "metadata": {
-      "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png"
-    },
-    "image": "https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/SO2NO2-USA.png",
-    "link": "notebooks/veda-api-bids-2023",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel_preview.png",
+    "link": "notebooks/openchallengenotebook-c1-jessel-hezzi-roussel",
     "org": "ESA-eodashboards",
     "repo": "eodashboard-notebooks",
     "source": "local",
-    "path": "notebooks/veda_api_bids_2023.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/veda_api_bids_2023.ipynb&branch=main"
+    "path": "notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallengeNotebook_C1_Jessel-Hezzi-Roussel.ipynb&branch=main"
   },
   {
     "title": "K-means clustering analysis of oceanographic patterns in the Mediterranean Sea",
@@ -86,16 +74,16 @@
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/Oceanographic patterns clustering.ipynb&branch=main"
   },
   {
-    "title": "Monitoring socio-economic activities with nighttime light maps",
+    "title": "Earth System Science Hub Challenge 3: Time series interpolation techniques for remote sensing - Fran, Denise, Mae",
     "description": "",
     "metadata": {},
-    "image": "build/_assets/previews/notebooks_nightlights_notebook_Night_Lights_Blending_preview.png",
-    "link": "notebooks/nightlights-notebook/night-lights-blending",
+    "image": "build/_assets/previews/notebooks_OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED_preview.png",
+    "link": "notebooks/openchallangenotebook-team-5-challenge-3-timeserie",
     "org": "ESA-eodashboards",
     "repo": "eodashboard-notebooks",
     "source": "local",
-    "path": "notebooks/nightlights_notebook/Night_Lights_Blending.ipynb",
-    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/nightlights_notebook/Night_Lights_Blending.ipynb&branch=main"
+    "path": "notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/OpenChallangeNotebook-TEAM-5_CHALLENGE-3_Timeseries-Interpolation_UPDATED.ipynb&branch=main"
   },
   {
     "title": "eodashboard STAC access",
@@ -110,6 +98,18 @@
     "source": "local",
     "path": "notebooks/eodashboard_STAC_access/eodashboard_STAC_access.ipynb",
     "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/eodashboard_STAC_access/eodashboard_STAC_access.ipynb&branch=main"
+  },
+  {
+    "title": "Monitoring socio-economic activities with nighttime light maps",
+    "description": "",
+    "metadata": {},
+    "image": "build/_assets/previews/notebooks_nightlights_notebook_Night_Lights_Blending_preview.png",
+    "link": "notebooks/nightlights-notebook/night-lights-blending",
+    "org": "ESA-eodashboards",
+    "repo": "eodashboard-notebooks",
+    "source": "local",
+    "path": "notebooks/nightlights_notebook/Night_Lights_Blending.ipynb",
+    "gitpuller": "https://workspace.earthcode.eox.at/hub/user-redirect/git-pull?repo=https://github.com/ESA-eodashboards/eodashboard-notebooks&urlpath=lab/tree/eodashboard-notebooks/notebooks/nightlights_notebook/Night_Lights_Blending.ipynb&branch=main"
   },
   {
     "title": "URBAN HEALTH AND MEGACITIES: THE CASE OF NEW DELHI",
